@@ -3,7 +3,7 @@
 @section('content')
 <div class="row">
   <div class="col-lg-7">
-    <img class="img-responsive" src="logo.png"><!-- take out img-rounded if you don't want the rounded corners on the image -->
+    <img class="img-responsive" src="images/logo.png"><!-- take out img-rounded if you don't want the rounded corners on the image -->
   </div>
   <div class="col-lg-5">
     <h1>Welcome to The Team!</h1>
